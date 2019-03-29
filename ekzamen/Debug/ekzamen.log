@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\ekzamen\ekzamen\source.cpp(186): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ekzamen.vcxproj -> c:\Users\пашакуловт\source\repos\ekzamen\Debug\ekzamen.exe
